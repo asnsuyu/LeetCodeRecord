@@ -1,7 +1,7 @@
 class Solution1:
     def isPalindrome(self, x: int) -> bool:
         """
-        方法一：转化为字符串比较
+        方法一：转化成字符串
 
         思路：将输入x转化为字符串，然后头尾进行比较
 
