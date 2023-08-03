@@ -1,5 +1,8 @@
+from typing import List
+
+
 class Solution1:
-    def twoSum(self, nums, target):
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         """
         方法一：暴力求解
 

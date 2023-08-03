@@ -2,7 +2,7 @@ from typing import List
 
 
 class Solution2:
-    def twoSum(self, nums, target):
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         """
         方法二：查找表法
 
