@@ -10,9 +10,9 @@ def main():
     solution = Solution1()
 
     for i, num in enumerate(x):
-        print("输入：x = {}".format(num))
-        print("输出：{}".format(solution.isPalindrome(num)))
-        print("期望输出：{}".format(output[i]))
+        print("输入: x = {}".format(num))
+        print("输出: {}".format(solution.isPalindrome(num)))
+        print("期望输出: {}".format(output[i]))
         print()
 
 

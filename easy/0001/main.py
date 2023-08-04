@@ -17,9 +17,9 @@ def main():
     solution = Solution2()
 
     for i, row in enumerate(nums):
-        print("输入：nums = {}, target = {}".format(row, target[i]))
-        print("输出：{}".format(solution.twoSum(row, target[i])))
-        print("期望输出：{}".format(output[i]))
+        print("输入: nums = {}, target = {}".format(row, target[i]))
+        print("输出: {}".format(solution.twoSum(row, target[i])))
+        print("期望输出: {}".format(output[i]))
         print()
 
 

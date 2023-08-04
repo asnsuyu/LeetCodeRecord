@@ -10,9 +10,9 @@ def main():
     solution = Solution1()
 
     for i, rStr in enumerate(s):
-        print("输入：s = \"{}\"".format(rStr))
-        print("输出：{}".format(solution.romanToInt(rStr)))
-        print("期望输出：{}".format(output[i]))
+        print("输入: s = \"{}\"".format(rStr))
+        print("输出: {}".format(solution.romanToInt(rStr)))
+        print("期望输出: {}".format(output[i]))
         print()
 
 
