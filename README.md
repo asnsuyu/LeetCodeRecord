@@ -1,3 +1,5 @@
-# leetcode
+# LeetCode
 
-- 力扣刷题记录
+---
+
+- LeetCode刷题记录, 主要使用python
